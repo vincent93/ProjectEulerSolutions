@@ -1,0 +1,6 @@
+C:\Users\vdego_000\Documents\GitHub\ProjectEulerSolutions\Problem1\Problem1\bin\Debug\Problem1.exe.config
+C:\Users\vdego_000\Documents\GitHub\ProjectEulerSolutions\Problem1\Problem1\bin\Debug\Problem1.exe
+C:\Users\vdego_000\Documents\GitHub\ProjectEulerSolutions\Problem1\Problem1\bin\Debug\Problem1.pdb
+C:\Users\vdego_000\Documents\GitHub\ProjectEulerSolutions\Problem1\Problem1\obj\Debug\Problem1.csprojResolveAssemblyReference.cache
+C:\Users\vdego_000\Documents\GitHub\ProjectEulerSolutions\Problem1\Problem1\obj\Debug\Problem1.exe
+C:\Users\vdego_000\Documents\GitHub\ProjectEulerSolutions\Problem1\Problem1\obj\Debug\Problem1.pdb
